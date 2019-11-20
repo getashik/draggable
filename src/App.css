@@ -20,3 +20,11 @@
 .App-link {
   color: #09d3ac;
 }
+
+.mydivheader {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  background-color: rgb(243, 33, 121);
+  color: #fff;
+}

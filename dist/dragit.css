@@ -1,0 +1,25 @@
+.a-dragit-wrapper{
+    border: none!important;
+    padding:0!important;
+    margin:0!important; 
+}
+.a-dragit{
+    border: none!important;
+    width: max-content!important;
+    position: absolute!important;
+    background: transparent!important;
+    z-index: 1111;
+}
+.a-d-w-Panel{
+    border: 1px solid #ccc;
+    width: max-content!important;
+    position: absolute!important;
+    background: transparent!important;
+    z-index: 11111;
+    bottom: 10;
+    right: 0;
+    padding:1px;
+   
+    height: 20px;
+    display: flex;
+}
